@@ -10,6 +10,16 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+/* Definisikan Warna Custom BJB Cargo */
+  --bjb-50: #f0fdf4;
+  --color-bjb-100: #dcfce7;
+  --color-bjb-500: #22c55e;
+  --color-bjb-700: #15803d; /* Primary Corporate Green */
+  --color-bjb-800: #166534;
+  --color-bjb-900: #14532d;
+  
+  --color-dark: #0f172a;
 }
 
 @media (prefers-color-scheme: dark) {
