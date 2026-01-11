@@ -8,7 +8,6 @@ import { Phone } from "lucide-react";
 export default function DomesticPage() {
   return (
     <main className="min-h-screen bg-white">
-      <Navbar />
       
       {/* 1. Hero Section - Gambar Truk Logistik / Gudang */}
       <ServiceHero 

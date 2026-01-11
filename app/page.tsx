@@ -6,8 +6,7 @@ import WhyChooseUs from '@/components/home/WhyChooseUs';
 export default function Home() {
   return (
     <main className="min-h-screen bg-white">
-      <Navbar />
-      
+  
       {/* Setiap section dikelola di file terpisah */}
       <HeroSection />
       

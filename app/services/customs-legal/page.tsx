@@ -8,7 +8,7 @@ import { Phone } from "lucide-react";
 export default function CustomsLegalPage() {
   return (
     <main className="min-h-screen bg-white">
-      <Navbar />
+
       
       {/* 1. Hero Section */}
       <ServiceHero 

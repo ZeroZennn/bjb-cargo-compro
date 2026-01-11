@@ -7,7 +7,7 @@ import GlobalNetwork from "@/components/services/freight/GlobalNetwork";
 export default function InternationalFreightPage() {
   return (
     <main className="min-h-screen bg-white">
-      <Navbar />
+
       
       {/* 1. Hero Section - Gambar Kapal Kargo di Lautan */}
       <ServiceHero 
