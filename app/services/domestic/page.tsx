@@ -37,10 +37,6 @@ export default function DomesticPage() {
         </a>
       </div>
 
-      {/* Footer Placeholder */}
-      <footer className="bg-gray-900 text-white py-8 text-center text-sm">
-        <p>&copy; 2024 PT. Betari Jaya Bersama. All Rights Reserved.</p>
-      </footer>
     </main>
   );
 }

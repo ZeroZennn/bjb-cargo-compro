@@ -46,10 +46,6 @@ export default function CustomsLegalPage() {
         </div>
       </section>
 
-      {/* Footer Placeholder (Nanti pakai komponen Footer beneran) */}
-      <footer className="bg-gray-900 text-white py-8 text-center text-sm">
-        <p>&copy; 2024 PT. Betari Jaya Bersama. All Rights Reserved.</p>
-      </footer>
     </main>
   );
 }

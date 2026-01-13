@@ -25,10 +25,6 @@ export default function InternationalFreightPage() {
       {/* 4. Global Network (Peta Jaringan) */}
       <GlobalNetwork />o
 
-      {/* Footer Placeholder */}
-      <footer className="bg-gray-900 text-white py-8 text-center text-sm mt-12">
-        <p>&copy; 2024 PT. Betari Jaya Bersama. All Rights Reserved.</p>
-      </footer>
     </main>
   );
 }
